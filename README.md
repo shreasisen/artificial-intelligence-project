@@ -1,2 +1,3 @@
-# artificial-intelligence-project
-Аnаlysis аnd Prediction of the Cryptocurrency Mаrket using Аrtificiаl Intelligence- RNN and LSTM algorithms
+# RNN-LSTM-Cryptocurrency
+
+The following project is an attempt at using Deep Learning Neural Network techniques RNN & LSTM together, to analyse and predict future trends of cryptocurrencies in a very crude manner.
